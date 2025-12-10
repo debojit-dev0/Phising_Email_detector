@@ -2,6 +2,7 @@
 
 Phishing is a trick where attackers pretend to be someone trustworthy (like a bank or company) to steal your information—passwords, OTPs, credit card details, or personal data.
 
+
 2. **How to identify a phishing email?**
 
 Look for signs like:
@@ -18,9 +19,11 @@ Attachments you didn’t expect
 
 Email address that doesn’t match the real company
 
+
 3. **What is email spoofing?**
 
 Email spoofing means the attacker fakes the “From” address to make it look like the email came from a trusted person or organization.
+
 
 4. **Why are phishing emails dangerous?**
 
@@ -38,6 +41,7 @@ Trick you into sharing sensitive information
 
 A single click can cause serious damage.
 
+
 5. **How can you verify the sender’s authenticity?**
 
 Check the real email address, not just the name
@@ -52,6 +56,7 @@ Check email headers to see the real source
 
 Verify if the website uses HTTPS and correct domain
 
+
 6. **What tools can analyze email headers?**
 
 Google’s Message Header Analyzer
@@ -63,6 +68,7 @@ Microsoft Message Header Tool
 Header Checkers built into email security tools (like Proofpoint, Mimecast)
 
 These tools show where the email actually came from.
+
 
 7. **What actions should be taken on suspected phishing emails?**
 
@@ -79,6 +85,7 @@ Mark it as spam/phishing
 Delete the email
 
 If you clicked accidentally, change passwords immediately.
+
 
 8. **How do attackers use social engineering in phishing?**
 
